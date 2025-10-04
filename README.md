@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barkatullah-khan&label=Profile%20views&color=0e75b6&style=flat" alt="barkatullah-khan" /> </p>
 
-- 🌱 I’m currently learning **Tailwind css React js**
+- 🌱 I’m currently working in openHpc enviroment like warewulf ,slurm,and ansible with linux**
 
 - 📫 How to reach me **khanbarkatullah110@gmail.com**
 
-- ⚡ Fun fact **i am funny😂**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
