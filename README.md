@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Barkat-wazir</h1>
-<h3 align="center">A passionate Software engineer and frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Software Engineer, Full-Stack Developer, and HPC Enthusiast from Pakistan</h3>
 <img align="right" alt="coding" width="400px" src="https://th.bing.com/th/id/R.03a4a5f034bf0bafa661fd8a8aabedc8?rik=O2cT6JPnp1MfGg&pid=ImgRaw&r=0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barkatullah-khan&label=Profile%20views&color=0e75b6&style=flat" alt="barkatullah-khan" /> </p>
 
 - 🌱 I’m currently working in openHpc enviroment like warewulf ,slurm,and ansible with linux**
 
-- 📫 How to reach me **khanbarkatullah110@gmail.com**
+- 📫 How to reach me **barkatullahk058@gmail.com**
 
   
 
